@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Users</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <a href="add-user.html">Add User</a>
+        <a href="get-user.html">Get User</a>
+    </nav>
+    <div class="content">
+        <div id="updateContainer" style="display: none;">
+            <h1>Update User</h1>
+            <p id="updateUserId"></p>
+        </div>
+        <h2>User List</h2>
+        <div class="table-container">
+            <table id="userTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Age</th>
+                        <th>Weight</th>
+                        <th>Height</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                </tbody>
+            </table>
+        </div>
+        <div id="userFormContainer"></div>
+        <p id="getUserMessage"></p>
+    </div>
+    <div id="userDetailsModal" class="modal">
+        <div class="modal-content">
+            <button class="close-button" id="modelCloseBtn">&times;</button>
+            <h2>User Details</h2>
+            <div id="userDetails">
+                <!-- User details will be populated here -->
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
