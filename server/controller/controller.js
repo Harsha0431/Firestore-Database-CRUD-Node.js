@@ -98,7 +98,6 @@ async function updateUserById(req, res) {
     
     const { name, email, age, weight, height, healthGoals } = req.body;
 
-    // Validate input (similar to what you did earlier)
     if (!name || !email) {
         return res.json({ code: 0, message: "Name and email are required" });
     }
