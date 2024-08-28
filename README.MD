@@ -18,16 +18,20 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 > ***pnpm install*** or ***npm install***
 3. Configure Firebase
 > Create a **server/config/config.json** file with your Firebase project credentials. <br>
->> [!IMPORTANT]
->> #### Steps to get credential from your firebase account
->> 1. Create a firebase account
->> 2. Go to console and create a project
->> 3. Click on project > Project Overvew > Project Settings<br>
->> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/my-project.png" width="500" /><br>
->> 4. Click on ***Service accounts***<br>
->> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/project-overview-service-accounts.png" height="200" /><br>
->> 5. Clikc on ***Generate new private key*** to download config.json file<br>
->> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/generate-config-file.png" width="500" /><br>
+
+
+> [!IMPORTANT]
+> #### Steps to get credential from your firebase account
+> 1. Create a firebase account
+> 2. Go to console and create a project
+> 3. Click on project > Project Overvew > Project Settings<br>
+> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/my-project.png" width="500" /><br>
+> 4. Click on ***Service accounts***<br>
+> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/project-overview-service-accounts.png" height="200" /><br>
+> 5. Clikc on ***Generate new private key*** to download config.json file<br>
+> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/generate-config-file.png" width="500" /><br>
+
+
 4. Run the application (Server)
 > ***node server.js*** or ***nodemon server.js***
 5. Access the frontend
