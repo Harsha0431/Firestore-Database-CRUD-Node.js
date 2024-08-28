@@ -23,6 +23,7 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 >> 2. Go to console and create a project
 >> 3. Click on project > Project Overvew > Project Settings<br>
 >> ![firebase project overview options](https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/my-project.png)
+>> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/my-project.png" width="300" />
 4. Run the application (Server)
 > ***node server.js*** or ***nodemon server.js***
 5. Access the frontend
