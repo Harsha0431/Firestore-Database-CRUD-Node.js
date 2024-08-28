@@ -25,8 +25,8 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 
 
 ### API Endpoints
-**GET** ***`/users`***: Retrieve all users.
-**GET** ***`/users/:id`***: Retrieve a user by their ID.
-**POST** ***`/users`***: Add a new user.
-**PUT** ***`/users/:id`***: Update a user by their ID.
-**DELETE** ***`/users/:id`***: Delete a user by their ID.
+**GET** ***`/users`***: Retrieve all users.<br>
+**GET** ***`/users/:id`***: Retrieve a user by their ID.<br>
+**POST** ***`/users`***: Add a new user.<br>
+**PUT** ***`/users/:id`***: Update a user by their ID.<br>
+**DELETE** ***`/users/:id`***: Delete a user by their ID.<br>
