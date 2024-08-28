@@ -18,6 +18,7 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 > ***pnpm install*** or ***npm install***
 3. Configure Firebase
 > Create a **server/config/config.json** file with your Firebase project credentials. <br>
+>> [!IMPORTANT]
 >> #### Steps to get credential from your firebase account
 >> 1. Create a firebase account
 >> 2. Go to console and create a project
