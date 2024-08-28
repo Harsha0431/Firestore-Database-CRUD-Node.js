@@ -12,14 +12,14 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 
 ### Setup and Installation
 1. Clone the repository
-> git clone https://github.com/Harsha0431/Firestore-Database-CRUD-Node.js.git
+> git clone https://github.com/Harsha0431/Firestore-Database-CRUD-Node.js.git <br>
 > cd Firestore-Database-CRUD-Node
 2. Install dependencies
-> *pnpm install* or *npm install*
+> ***pnpm install*** or ***npm install***
 3. Configure Firebase
 > Create a **server/config/config.json** file with your Firebase project credentials.
 4. Run the application (Server)
-> *node server.js* or *nodemon server.js*
+> ***node server.js*** or ***nodemon server.js***
 5. Access the frontend
 > Open ***index.html*** in your browser to use the frontend interface.
 
