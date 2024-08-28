@@ -23,6 +23,10 @@ This project demonstrates basic CRUD (Create, Read, Update, Delete) operations u
 >> 2. Go to console and create a project
 >> 3. Click on project > Project Overvew > Project Settings<br>
 >> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/my-project.png" width="500" />
+>> 4. Click on ***Service accounts***
+>> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/project-overview-service-accounts.png" height="200" />
+>> 5. Clikc on ***Generate new private key*** to download config.json file
+>> <img src="https://github.com/Harsha0431/MY-BLOBS/blob/main/Firestore%20CRUD%20Nodejs/asserts/generate-config-file.png" width="500" />
 4. Run the application (Server)
 > ***node server.js*** or ***nodemon server.js***
 5. Access the frontend
